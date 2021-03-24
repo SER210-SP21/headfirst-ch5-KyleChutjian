@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chapter5</string>
+    <string name="to">changethislater</string>
+    <string name="message">changethislater(message)</string>
+    <string name="send">changethislater(end)</string>
+</resources>
